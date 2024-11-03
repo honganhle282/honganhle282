@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Hong Anh (Sophia)
 
-Welcome to my GitHub profile! I'm a fresher Data Analyst passionate about business, finance, and banking data analysis. I enjoy transforming raw data into meaningful insights that drive strategic decisions.
+Welcome to my GitHub profile! I enjoy transforming raw data into meaningful insights that drive strategic decisions.
 
 
 ### 🌱 Currently learning
