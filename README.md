@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a fresher Data Analyst passionate about busine
 
 
 ### 🌱 Currently learning
-- Advanced SQL techniques, Data Visualization, and Machine Learning for financial analysis.
+- Advanced SQL techniques, Data Visualization and business analysis.
 
 ### 📫 How to reach me
 - Email: honganhle280200@gmail.com
