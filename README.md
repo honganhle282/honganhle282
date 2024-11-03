@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I enjoy transforming raw data into meaningful insi
 
 
 ### 🌱 Currently learning
-- Advanced SQL techniques, Data Visualization and business analysis.
+- Advanced SQL techniques, Data Visualization, Python and AI.
 
 ### 📫 How to reach me
 - Email: honganhle280200@gmail.com
