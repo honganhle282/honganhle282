@@ -8,11 +8,10 @@ Welcome to my GitHub profile! I'm a fresher Data Analyst passionate about busine
 
 ### 📫 How to reach me
 - Email: honganhle280200@gmail.com
-- LinkedIn: 
 - GitHub: https://github.com/honganhle282
 
 ### 🛠️ Technologies & Tools
-- Languages: SQL, Python
+- Languages: SQL(Window, CTE, Join), Python(Pandas, Matplotlib, Seaborn), MS Excel
 - Tools: SSMS, Power BI, Visual Studio Code, GG Colab
 
 Thanks for visiting my profile!
